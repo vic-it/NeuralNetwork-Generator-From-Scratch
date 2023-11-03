@@ -1,5 +1,5 @@
 This is a neural network framework made from scratch.
-The main stack consists of python + numpy.
+Made with python + numpy (no neural network libraries used)
 Inspired by https://www.youtube.com/@independentcod
 
 It features fordward and backwards propagation for different layers and methods such as:
