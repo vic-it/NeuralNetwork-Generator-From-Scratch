@@ -1,2 +1,2 @@
-venv/Lib
-data/files
+venv/Lib/
+data/files/
